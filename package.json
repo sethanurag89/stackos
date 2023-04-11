@@ -1,0 +1,14 @@
+{
+  "name": "stackos",
+  "version": "1.0.0",
+  "description": "new",
+  "main": "stackos.js",
+  "repository": "https://github.com/sethanurag89/stackos.git",
+  "author": "anurag",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "os": "^0.1.2"
+  },
+  "type": "module"
+}

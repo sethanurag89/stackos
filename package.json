@@ -4,8 +4,10 @@
   "description": "new",
   "main": "stackos.js",
   "repository": "https://github.com/sethanurag89/stackos.git",
+  "bugs": "https://github.com/sethanurag89/stackos/issues",
   "author": "anurag",
   "license": "MIT",
+  "keywords": ["os", "demo", "yarn course"],
   "dependencies": {
     "chalk": "^5.2.0",
     "os": "^0.1.2"
